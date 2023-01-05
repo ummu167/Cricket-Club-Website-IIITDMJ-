@@ -1,0 +1,12 @@
+[30-Jun-2021 21:02:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 2
+[30-Jun-2021 21:02:47 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 11
+[30-Jun-2021 21:02:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 21
+[30-Jun-2021 21:03:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 2
+[30-Jun-2021 21:03:47 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 11
+[30-Jun-2021 21:03:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 21
+[30-Jun-2021 21:12:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 2
+[30-Jun-2021 21:12:27 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 11
+[30-Jun-2021 21:12:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 21
+[15-Feb-2022 07:41:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 2
+[15-Feb-2022 07:41:13 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 11
+[15-Feb-2022 07:41:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k9tyut73qnz4/public_html/cricektclub.iiitdmj.ac.in/userinfo.php on line 21
